@@ -1,0 +1,5 @@
+ List are ordered collection of elements of same or different data types
+ List elements are enclosed in square brackets [] and are separated by comma
+List is mutable (can be changed)
+Indexing and sliciing is allowed in list
+List can store duplicate elements
